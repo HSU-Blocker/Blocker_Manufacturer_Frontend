@@ -1,0 +1,53 @@
+.licenseContainer {
+    padding: 2rem;
+    color: #333;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+    font-family: sans-serif;
+}
+
+.backButton {
+    background: none;
+    border: 1px solid #ccc;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+.backButton:hover {
+    background-color: #eee;
+}
+
+.licenseContainer h1 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.licenseInfo {
+    margin-top: 2rem;
+}
+
+.licenseInfo h3 {
+    margin-bottom: 0.5rem;
+}
+
+.licenseInfo ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.licenseInfo li {
+    margin-bottom: 0.5rem;
+}
+
+.licenseInfo a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.licenseInfo a:hover {
+    text-decoration: underline;
+}

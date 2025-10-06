@@ -8,6 +8,7 @@ import AccessPolicyPage from './pages/AccessPolicy';
 import DeploymentSummaryPage from './pages/DeploymentSummary';
 import DeploymentCompletePage from './pages/DeploymentComplete';
 import UpdateMonitoringPage from './pages/UpdateMonitoring';
+import License from './pages/License';
 import EncryptionVisualizationScene from './components/EncryptionVisualizationContent/EncryptionVisualizationScene'
 
 function AboutRedirect() {
@@ -198,6 +199,7 @@ function App() {
             path="/encryption-visualization" 
             element={<EncryptionVisualizationScene />} 
           />
+          <Route path="/license" element={<License />} />
         </Routes>
       </main>
     </div>

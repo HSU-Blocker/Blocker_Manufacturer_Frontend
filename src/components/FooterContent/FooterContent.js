@@ -1,9 +1,11 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import styles from './FooterContent.module.css';
 
 const FooterContent = ({ label, onClick, instructionText }) => {
   return (
     <div className={styles.container}>
+      <Link to="/license" className={styles.licenseLink}>Open Source Licenses</Link>
       {/* 라벨 */}
       {label && <div className={styles.label}>{label}</div>}
 
