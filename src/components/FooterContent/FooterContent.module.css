@@ -13,6 +13,19 @@
   /* box-sizing: border-box; padding이 width에 포함되도록 설정 */
   /* --- 고정 스타일 끝 --- */
   }
+
+.licenseLink {
+  position: absolute;
+  left: 40px;
+  bottom: -50px;
+  font-size: 1rem;
+  color: #888;
+  text-decoration: underline;
+}
+
+.licenseLink:hover {
+  text-decoration: underline;
+}
   
   .label {
     font-size: 1.5rem;

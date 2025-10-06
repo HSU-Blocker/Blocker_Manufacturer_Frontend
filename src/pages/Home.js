@@ -4,7 +4,7 @@ import { MainContent } from '../components/MainContent/MainContent';
 import Navigation from '../components/Navigation/Navigation';
 import FooterContent from '../components/FooterContent/FooterContent';
 import BackgroundContent from '../components/Background/BackgroundContent';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 
 function Home() {
   const navigate = useNavigate();
