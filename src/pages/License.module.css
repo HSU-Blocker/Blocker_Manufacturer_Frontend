@@ -1,14 +1,15 @@
 .licenseContainer {
     padding: 2rem;
-    color: #333;
-    background-color: #f9f9f9;
+    color: #fff;
+    background-color: #000;
     min-height: 100vh;
     font-family: sans-serif;
 }
 
 .backButton {
     background: none;
-    border: 1px solid #ccc;
+    border: 1px solid #fff;
+    color: #fff;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     cursor: pointer;
@@ -17,11 +18,11 @@
 }
 
 .backButton:hover {
-    background-color: #eee;
+    background-color: #333;
 }
 
 .licenseContainer h1 {
-    border-bottom: 2px solid #eee;
+    border-bottom: 2px solid #555;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
 }
@@ -44,7 +45,7 @@
 }
 
 .licenseInfo a {
-    color: #007bff;
+    color: #add8e6;
     text-decoration: none;
 }
 
