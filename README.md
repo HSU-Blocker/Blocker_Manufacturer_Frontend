@@ -36,8 +36,6 @@ A 3D animated visualization showing how the manufacturer's uploaded update file 
 - ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) (optional)
 - ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-- ![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHSU-Blocker%2FBlocker_Manufacturer_Frontend.svg?type=shield)]
-(v16+ recommended)
 
 ## Technology Stack
 
@@ -96,6 +94,19 @@ This project is licensed under the Apache 2.0 License. See [LICENSE](./LICENSE) 
 
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHSU-Blocker%2FBlocker_Manufacturer_Frontend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHSU-Blocker%2FBlocker_Manufacturer_Frontend?ref=badge_large)
+
+
+---
+
+## Open Source Licenses
+
+This project uses third-party open source software. The attribution notices for the software contained in this application can be found in the following file:
+
+- [NOTICE.md](NOTICE.md)
+
+
+---
+
 
 ## Contribution
 
